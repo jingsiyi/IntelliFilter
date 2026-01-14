@@ -1,0 +1,8 @@
+{
+  "name": "IF",
+  "description": "An intelligent content filter and recommender that scans web pages and highlights only what you're interested in using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
